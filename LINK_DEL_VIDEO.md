@@ -7,5 +7,5 @@
 
 ## VIDEO EXPLICATIVO
 
-[Complejidad de algoritmos](https://youtu.be/0IDXC1loCLc)
+[Complejidad de algoritmos](https://youtu.be/AOR_Bpt7hMA)
 
